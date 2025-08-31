@@ -18,10 +18,6 @@ iptables --version      # Verify installation
 # =========================
 sudo iptables -L        # List current firewall rules
 
-## Proof ##
-
-![Initial Firewall Status Screenshot](Evidence/STEP 1 T2.png)
-
 
 # =========================
 # Inbound Rules
