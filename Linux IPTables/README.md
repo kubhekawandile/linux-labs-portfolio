@@ -40,7 +40,7 @@ This demonstrates **technical proficiency and GRC awareness**.
 The repository is organized as follows:
 
 - **linux-iptables/** — Directory containing the lab files:  
-  - `Linux Firewall Configuration with iptables.md` — Detailed lab write-up including summary, lessons learned, compliance mapping, risks mitigated, and key takeaways.  
+  - `Doc.md` — Detailed lab write-up including summary, lessons learned, compliance mapping, risks mitigated, and key takeaways.  
   - `Commands Used.md` — Full list of commands executed during the lab.  
   - `evidence/` — Subdirectory containing screenshots of the lab showing command outputs and verification.
 
