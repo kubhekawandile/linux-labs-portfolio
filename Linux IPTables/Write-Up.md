@@ -1,12 +1,12 @@
 # Firewall Configuration
 
-## 📝 Lab Summary
+##  Lab Summary
 Configured firewall rules on Linux using `iptables` to secure a two-tier application environment.  
 Enforced least privilege access, restricted network exposure, and validated rules as **audit evidence**.  
 
 ---
 
-## ✅ Lessons Learned
+##  Lessons Learned
 - Restricted access to network services through firewall guardrails.  
 - Installed and configured `iptables` on relevant servers.  
 - Allowed specific inbound traffic (**SSH & HTTP**) while denying all others.  
@@ -15,7 +15,7 @@ Enforced least privilege access, restricted network exposure, and validated rule
 
 ---
 
-## 📑 Compliance Mapping
+##  Compliance Mapping
 
 **ISO/IEC 27001:2022 Annex A**  
 - **A.5.15** – Access control  
@@ -31,7 +31,7 @@ Enforced least privilege access, restricted network exposure, and validated rule
 
 ---
 
-## 🛡️ Risk Mitigation Mapping
+## 🛡 Risk Mitigation Mapping
 
 | Scenario / Risk                                   | Control Applied | Mitigation Outcome |
 |--------------------------------------------------|----------------|--------------------|
@@ -43,11 +43,11 @@ Enforced least privilege access, restricted network exposure, and validated rule
 
 ---
 
-## 🔑 Key Takeaways
+##  Key Takeaways
 - Firewall configuration is **system hardening** — adds a protective layer.  
-- Directly enforced **least privilege access** at OS level.  
-- Reduced attack surface by allowing only necessary inbound/outbound traffic.  
-- Created **traceable compliance guardrails** mapped to ISO 27001 & NIST controls.  
-- Demonstrated ability to provide **evidence for audits** in real-world scenarios.  
+- Directly enforced **least privilege access** at OS level is another layer of defense.  
+- **Attack surface** is reduced by allowing only necessary inbound/outbound traffic.  
+- By properly configuring firewalls we are initially creating **traceable compliance guardrails** that are then mapped to ISO 27001 & NIST controls.  
+- Verifying rules provides **evidence for audits** in real-world scenarios.  
 
 ---
