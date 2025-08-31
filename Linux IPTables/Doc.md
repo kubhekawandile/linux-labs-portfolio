@@ -1,4 +1,4 @@
-# 🔒 Linux Firewall Configuration with `iptables`
+# Firewall Configuration
 
 ## 📝 Lab Summary
 Configured firewall rules on Linux using `iptables` to secure a two-tier application environment.  
