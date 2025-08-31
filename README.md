@@ -1,2 +1,6 @@
-# linux-labs-portfolio
-Documentation of my hands-on Linux labs covering commands, permissions, package management, networking, and automation. This repo showcases my practical experience with Linux system administration and security fundamentals.
+# Linux Labs Portfolio
+
+This repository contains documentation of various Linux labs I have completed.  
+Each lab is organized in its respective directory and includes detailed write-ups, commands used, and evidence such as screenshots.  
+
+The purpose of this repo is to showcase hands-on Linux skills, practical system configuration experience, and alignment with security and compliance best practices.
