@@ -1,4 +1,4 @@
-# Linux iptables Firewall Configuration
+# Linux Firewall Configuration With IPTables
 
 This repository, **linux-labs-portfolio**, contains hands-on Linux labs I completed, with a focus on firewall configuration using `iptables`.  
 The lab demonstrates both **technical skills** and **practical alignment to GRC frameworks**.
