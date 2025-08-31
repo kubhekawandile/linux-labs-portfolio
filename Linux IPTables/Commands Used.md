@@ -18,8 +18,9 @@ iptables --version      # Verify installation
 # =========================
 sudo iptables -L        # List current firewall rules
 
-## Proof
-![Initial Firewall Status Screenshot](evidence/initial-firewall-status.png)
+## Proof ##
+
+![Initial Firewall Status Screenshot](Evidence/initial-firewall-status.png)
 
 
 # =========================
